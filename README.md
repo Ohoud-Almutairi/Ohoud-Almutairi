@@ -1,12 +1,10 @@
-<h1 align="center">Hi there 👋</h1>
-
 ---
 
-### 👩‍💻 About Me:
+# Hi there, I'm Ohoud 👋
 
 Hi! I'm **Ohoud** — a passionate Computer Science graduate with a focus on **Artificial Intelligence**.  
 I enjoy building AI-powered apps, solving real-world problems, and designing meaningful software solutions.  
-Open to opportunities in **AI**, **software development**, and **technology innovation** 🌟
+🌍 Currently exploring opportunities in software development and AI
 
 ---
 
@@ -14,6 +12,7 @@ Open to opportunities in **AI**, **software development**, and **technology inno
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohoud-almutairi-744032282?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BONfcvu%2FmShOaAcGSSAABqA%3D%3D)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ohoud.almutariri2003@gmail.com)
+
 
 ---
 
@@ -31,11 +30,7 @@ Open to opportunities in **AI**, **software development**, and **technology inno
 
 ---
 
----
 
-<!-- Optional personal quote or motto -->
-<!--
-_"I turn ideas into intelligent software."_ 💡
--->
+
 
 
