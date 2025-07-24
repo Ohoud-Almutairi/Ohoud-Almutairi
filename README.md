@@ -1,4 +1,3 @@
----
 
 # Hi there, I'm Ohoud 👋
 
@@ -6,7 +5,7 @@ Hi! I'm **Ohoud** — a passionate Computer Science graduate with a focus on **A
 I enjoy building AI-powered apps, solving real-world problems, and designing meaningful software solutions.  
 🌍 Currently exploring opportunities in software development and AI
 
----
+
 
 ### 🌐 Socials:
 
@@ -14,7 +13,7 @@ I enjoy building AI-powered apps, solving real-world problems, and designing mea
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ohoud.almutariri2003@gmail.com)
 
 
----
+
 
 ### 💻 Tech Stack:
 
@@ -30,7 +29,7 @@ I enjoy building AI-powered apps, solving real-world problems, and designing mea
 ![Roboflow](https://img.shields.io/badge/Roboflow-000000?style=for-the-badge&logo=roboflow&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+
 
 
 
