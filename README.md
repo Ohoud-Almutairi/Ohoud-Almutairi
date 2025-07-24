@@ -1,5 +1,5 @@
 
-# Hi there, I'm Ohoud 👋
+# Hi there 👋
 
 Hi! I'm **Ohoud** — a passionate Computer Science graduate with a focus on **Artificial Intelligence**.  
 I enjoy building AI-powered apps, solving real-world problems, and designing meaningful software solutions.  
