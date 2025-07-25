@@ -2,9 +2,8 @@
 # Hi there 👋
 
 ## 👋 About Me:
-Hi! I'm **Ohoud** — a passionate Computer Science graduate with a focus on **Artificial Intelligence**.  
-I enjoy building AI-powered apps, solving real-world problems, and designing meaningful software solutions.  
-🌍 Currently exploring opportunities in software development and AI
+Hi! I'm **Ohoud** — I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **software design**.
+I enjoy building AI-powered apps, solving real-world problems, and designing meaningful software solutions.
 
 
 ## 🌐 Socials:
